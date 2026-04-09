@@ -28,8 +28,8 @@ The API is CORS-enabled and designed with a clean, layered architecture: **Contr
 ***
 ## Landing Page
  
- src="<img width="1839" height="823" alt="image" src="https://github.com/user-attachments/assets/e5803e89-d3de-4c90-b4cc-a1d118ddfd27" />
-" />
+<img width="1839" height="823" alt="image" src="https://github.com/user-attachments/assets/e5803e89-d3de-4c90-b4cc-a1d118ddfd27" />
+
  
 ## Architecture
  
@@ -90,7 +90,7 @@ Your `application.properties`:
 ```properties
 spring.application.name=libraryManagement
  
-spring.datasource.url=jdbc:postgresql://localhost:5432/mapped
+spring.datasource.url=jdbc:postgresql://localhost:5432/database_name
 spring.datasource.username=postgres
 spring.datasource.password=1234
 spring.datasource.driver-class-name=org.postgresql.Driver
@@ -190,8 +190,7 @@ curl -X DELETE http://localhost:8080/books/delete/1
  
 ***
 ### Member Page
-<img width="945" height="426" alt="{7AC0DC6D-617E-46BD-B2FD-3966BF410979}" src="<img width="1839" height="824" alt="image" src="https://github.com/user-attachments/assets/c5c85217-ff8d-4672-ab70-a254362d83d3" />
-" />
+<img width="1839" height="824" alt="image" src="https://github.com/user-attachments/assets/c5c85217-ff8d-4672-ab70-a254362d83d3" />
  
  
 ***
@@ -240,7 +239,8 @@ curl -X DELETE http://localhost:8080/member/delete/101
 ***
  
 ### Record Page
-<img width="943" height="424" alt="{F7DAF67F-CB81-42EB-9B9E-12DA25BB93F0}" src="https://github.com/user-attachments/assets/a9bba6da-299b-4c9e-8e0a-ce7f6714a108" />
+<img width="1848" height="821" alt="image" src="https://github.com/user-attachments/assets/913caaaa-05d7-4c3e-8445-99777439ce7f" />
+
  
 ***
 ### Issue Records (`/record`)
@@ -344,7 +344,7 @@ This repository is for educational/demo purposes. Add a license (e.g., MIT) if y
  
 ## Maintainers
  
-*   **Abhishek Kumar** — Software Engineer (Noida)
+*   **Rishabh Mittal** — Analyst(Noida)
  
 ***
  
