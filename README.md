@@ -28,7 +28,7 @@ The API is CORS-enabled and designed with a clean, layered architecture: **Contr
 ***
 ## Landing Page
  
-<img width="950" height="427" alt="{9478635F-7EF4-4399-8E93-69E2A14F589D}" src="<img width="1839" height="823" alt="image" src="https://github.com/user-attachments/assets/e5803e89-d3de-4c90-b4cc-a1d118ddfd27" />
+ src="<img width="1839" height="823" alt="image" src="https://github.com/user-attachments/assets/e5803e89-d3de-4c90-b4cc-a1d118ddfd27" />
 " />
  
 ## Architecture
@@ -190,7 +190,8 @@ curl -X DELETE http://localhost:8080/books/delete/1
  
 ***
 ### Member Page
-<img width="945" height="426" alt="{7AC0DC6D-617E-46BD-B2FD-3966BF410979}" src="https://github.com/user-attachments/assets/8889fe7b-1693-4729-82af-a3fcbcfa2d73" />
+<img width="945" height="426" alt="{7AC0DC6D-617E-46BD-B2FD-3966BF410979}" src="<img width="1839" height="824" alt="image" src="https://github.com/user-attachments/assets/c5c85217-ff8d-4672-ab70-a254362d83d3" />
+" />
  
  
 ***
