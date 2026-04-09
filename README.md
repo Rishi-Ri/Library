@@ -28,7 +28,8 @@ The API is CORS-enabled and designed with a clean, layered architecture: **Contr
 ***
 ## Landing Page
  
-<img width="950" height="427" alt="{9478635F-7EF4-4399-8E93-69E2A14F589D}" src="https://github.com/user-attachments/assets/3f949299-c61e-4963-b93c-f9d352073b33" />
+<img width="950" height="427" alt="{9478635F-7EF4-4399-8E93-69E2A14F589D}" src="<img width="1839" height="823" alt="image" src="https://github.com/user-attachments/assets/e5803e89-d3de-4c90-b4cc-a1d118ddfd27" />
+" />
  
 ## Architecture
  
